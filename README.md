@@ -1,7 +1,7 @@
 # Python-training
 Python exercises and answers in 2022!
 
-## ANSEWR
+## ANSWER
 各問題に対応するPythonファイルを参照してください．
 
 ※必ずしもこの解答でなければいけないということではありません．
